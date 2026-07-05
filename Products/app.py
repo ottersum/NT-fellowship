@@ -125,8 +125,8 @@ gender_map = {"male": 0, "female": 1, "other": 2, "prefer not to say": 3}
 st.title("PsychMED")
 st.header("Patient PMEI calculator and predictor")
 st.warning(
-    "Please have in mind that this information should NOT be used as medical advice. "
-    "This is a research project and results are not clinically validated."
+    "🚨Please have in mind that this information should NEVER be used as medical advice.🚨"
+    "⚠️This is a research project for the Non-Trivial Fellowship (https://www.non-trivial.org/) and results are not clinically validated.⚠️"
 )
 
 tab1, tab2 = st.tabs([

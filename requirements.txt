@@ -1,14 +1,14 @@
 streamlit
+
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.3.2
 joblib
 
---extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.1.2
 torchvision==0.16.2
 
-sentence-transformers==2.2.2
-transformers==4.36.2
+sentence-transformers==2.3.1
+transformers==4.38.2
 huggingface_hub==0.20.3
 sentencepiece

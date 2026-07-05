@@ -1,7 +1,5 @@
-python
 streamlit
-pillow
 joblib
 numpy
 pandas
-sklearn
+scikit-learn

@@ -1,0 +1,7 @@
+python
+streamlit
+pillow
+joblib
+numpy
+pandas
+sklearn

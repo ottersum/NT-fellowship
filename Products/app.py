@@ -126,7 +126,9 @@ st.title("PsychMED")
 st.header("Patient PMEI calculator and predictor")
 st.warning(
     "🚨Please have in mind that this information should NEVER be used as medical advice.🚨"
-    "⚠️This is a research project for the Non-Trivial Fellowship (https://www.non-trivial.org/) and results are not clinically validated.⚠️"
+    "\n"
+    "This is a research project for the [Non-Trivial Fellowship](https://www.non-trivial.org/) and results are not clinically validated."
+    "To read more about the project, please read this public [report](https://docs.google.com/document/d/1sO9ZVUHj8ruJm0XJe8G0VtQY9CqtN_26JhrR_FmfK7Y/edit?usp=sharing)."
 )
 
 tab1, tab2 = st.tabs([

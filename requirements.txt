@@ -1,6 +1,9 @@
 streamlit
-joblib
 numpy
 pandas
 scikit-learn
-sentence-transformers
+joblib
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+sentencepiece

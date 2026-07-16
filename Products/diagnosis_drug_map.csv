@@ -1,0 +1,201 @@
+diagnosis,drug_name
+ADHD,Bupropion HCl Oral
+ADHD,Bupropion HBr Oral
+ADHD,Bupropion XL Oral
+ADHD,Bupropion SR Oral
+ADHD,Buproban Oral
+ADHD,Budeprion SR Oral
+ADHD,Budeprion XL Oral
+ADHD,Zyban Oral
+ADHD,Wellbutrin Oral
+ADHD,Wellbutrin SR Oral
+ADHD,Wellbutrin XL Oral
+Bipolar Disorder,Lithium Carbonate Oral
+Bipolar Disorder,Lithium Citrate Oral
+Bipolar Disorder,Lithane Oral
+Bipolar Disorder,Lithobid Oral
+Bipolar Disorder,Lithotabs Oral
+Bipolar Disorder,Eskalith Oral
+Bipolar Disorder,Eskalith CR Oral
+Bipolar Disorder,Divalproex Oral
+Bipolar Disorder,Depakote Sprinkles Oral
+Bipolar Disorder,Depakene Oral
+Bipolar Disorder,Valproic Acid Oral
+Bipolar Disorder,Valproic Acid (as Sodium Salt) Oral
+Bipolar Disorder,Carbamazepine Oral
+Bipolar Disorder,Epitol Oral
+Bipolar Disorder,Tegretol Oral
+Bipolar Disorder,Lamotrigine Oral
+Bipolar Disorder,Quetiapine Oral
+Bipolar Disorder,Seroquel Oral
+Bipolar Disorder,Seroquel XR Oral
+Bipolar Disorder,Olanzapine Oral
+Bipolar Disorder,Zyprexa Oral
+Bipolar Disorder,Aripiprazole Oral
+Bipolar Disorder,Abilify Oral
+Bipolar Disorder,Abilify Discmelt Oral
+Bipolar Disorder,Abilify Maintena Intramuscular
+Bipolar Disorder,Risperidone Oral
+Bipolar Disorder,Risperdal Oral
+Bipolar Disorder,Paliperidone Oral
+Bipolar Disorder,Invega Oral
+Bipolar Disorder,Latuda Oral
+Bipolar Disorder,Lurasidone Oral
+Bipolar Disorder,Vraylar Oral
+Bipolar Disorder,Cariprazine Oral
+Bipolar Disorder,Geodon Oral
+Bipolar Disorder,Ziprasidone Oral
+Depression,Sertraline Oral
+Depression,Zoloft Oral
+Depression,Fluoxetine Oral
+Depression,Fluoxetine
+Depression,Citalopram Oral
+Depression,Celexa Oral
+Depression,Escitalopram Oxalate Oral
+Depression,Lexapro Oral
+Depression,Paroxetine Oral
+Depression,Paroxetine Mesylate Oral
+Depression,Paxil Oral
+Depression,Paxil CR Oral
+Depression,Venlafaxine Oral
+Depression,Effexor XR Oral
+Depression,Duloxetine Oral
+Depression,Cymbalta Oral
+Depression,Desipramine Oral
+Depression,Nortriptyline Oral
+Depression,Amitriptyline Oral
+Depression,Elavil Oral
+Depression,Endep Oral
+Depression,Doxepin Oral
+Depression,Imipramine Oral
+Depression,Tofranil Oral
+Depression,Tofranil-PM Oral
+Depression,Trimipramine Oral
+Depression,Surmontil Oral
+Depression,Protriptyline Oral
+Depression,Vivactil Oral
+Depression,Bupropion HCl Oral
+Depression,Bupropion HBr Oral
+Depression,Wellbutrin Oral
+Depression,Wellbutrin SR Oral
+Depression,Wellbutrin XL Oral
+Depression,Aplenzin Oral
+Depression,Forfivo XL Oral
+Depression,Mirtazapine Oral
+Depression,Nardil Oral
+Depression,Phenelzine Oral
+Depression and Anxiety (both),Sertraline Oral
+Depression and Anxiety (both),Zoloft Oral
+Depression and Anxiety (both),Fluoxetine Oral
+Depression and Anxiety (both),Citalopram Oral
+Depression and Anxiety (both),Celexa Oral
+Depression and Anxiety (both),Escitalopram Oxalate Oral
+Depression and Anxiety (both),Lexapro Oral
+Depression and Anxiety (both),Paroxetine Oral
+Depression and Anxiety (both),Paxil Oral
+Depression and Anxiety (both),Venlafaxine Oral
+Depression and Anxiety (both),Effexor XR Oral
+Depression and Anxiety (both),Duloxetine Oral
+Depression and Anxiety (both),Cymbalta Oral
+Depression and Anxiety (both),Hydroxyzine HCl Oral
+Depression and Anxiety (both),Hydroxyzine Pamoate Oral
+General Anxiety,Sertraline Oral
+General Anxiety,Zoloft Oral
+General Anxiety,Escitalopram Oxalate Oral
+General Anxiety,Lexapro Oral
+General Anxiety,Paroxetine Oral
+General Anxiety,Paxil Oral
+General Anxiety,Venlafaxine Oral
+General Anxiety,Hydroxyzine HCl Oral
+General Anxiety,Hydroxyzine Pamoate Oral
+General Anxiety,Diazepam Oral
+General Anxiety,Valium Oral
+General Anxiety,Lorazepam Oral
+General Anxiety,Ativan Oral
+General Anxiety,Alprazolam Oral
+General Anxiety,Xanax Oral
+General Anxiety,Chlordiazepoxide HCl Oral
+General Anxiety,Librium Oral
+General Anxiety,Clorazepate Dipotassium Oral
+General Anxiety,Oxazepam Oral
+General Anxiety,Tranxene T-Tab Oral
+General Anxiety,Meprobamate Oral
+Panic Disorder,Sertraline Oral
+Panic Disorder,Zoloft Oral
+Panic Disorder,Paroxetine Oral
+Panic Disorder,Paxil Oral
+Panic Disorder,Fluoxetine Oral
+Panic Disorder,Venlafaxine Oral
+Panic Disorder,Clonazepam Oral
+Panic Disorder,Alprazolam Oral
+Panic Disorder,Xanax Oral
+Panic Disorder,Lorazepam Oral
+Panic Disorder,Ativan Oral
+Panic Disorder,Diazepam Oral
+Panic Disorder,Valium Oral
+PTSD,Sertraline Oral
+PTSD,Zoloft Oral
+PTSD,Paroxetine Oral
+PTSD,Paxil Oral
+PTSD,Fluoxetine Oral
+PTSD,Venlafaxine Oral
+PTSD,Duloxetine Oral
+PTSD,Cymbalta Oral
+OCD,Fluoxetine Oral
+OCD,Zoloft Oral
+OCD,Sertraline Oral
+OCD,Paroxetine Oral
+OCD,Paxil Oral
+OCD,Fluvoxamine Oral
+OCD,Luvox Oral
+OCD,Luvox CR Oral
+OCD,Clomipramine Oral
+OCD,Anafranil Oral
+Insomnia,Trazodone Oral
+Insomnia,Doxepin Oral
+Insomnia,Sinequan Oral
+Insomnia,Hydroxyzine HCl Oral
+Insomnia,Hydroxyzine Pamoate Oral
+Insomnia,Zolpidem Oral
+Schizophrenia,Risperidone Oral
+Schizophrenia,Risperdal Oral
+Schizophrenia,Risperdal Consta Intramuscular
+Schizophrenia,Olanzapine Oral
+Schizophrenia,Zyprexa Oral
+Schizophrenia,Zyprexa Zydis Oral
+Schizophrenia,Quetiapine Oral
+Schizophrenia,Seroquel Oral
+Schizophrenia,Seroquel XR Oral
+Schizophrenia,Aripiprazole Oral
+Schizophrenia,Abilify Oral
+Schizophrenia,Abilify Discmelt Oral
+Schizophrenia,Paliperidone Oral
+Schizophrenia,Invega Oral
+Schizophrenia,Invega Sustenna Intramuscular
+Schizophrenia,Invega Trinza Intramuscular
+Schizophrenia,Ziprasidone Oral
+Schizophrenia,Geodon Oral
+Schizophrenia,Lurasidone Oral
+Schizophrenia,Latuda Oral
+Schizophrenia,Haloperidol Oral
+Schizophrenia,Haldol Oral
+Schizophrenia,Haloperidol Intensol Oral
+Schizophrenia,Fluphenazine Oral
+Schizophrenia,Fluphenazine Decanoate Injection
+Schizophrenia,Chlorpromazine Oral
+Schizophrenia,Thorazine Oral
+Schizophrenia,Perphenazine Oral
+Schizophrenia,Trilafon Oral
+Schizophrenia,Loxapine Oral
+Schizophrenia,Loxitane Oral
+PMDD,Sertraline Oral
+PMDD,Zoloft Oral
+PMDD,Fluoxetine Oral
+PMDD,Sarafem Oral
+PMDD,Paroxetine Oral
+PMDD,Paxil Oral
+Seasonal Affective Disorder,Bupropion XL Oral
+Seasonal Affective Disorder,Wellbutrin XL Oral
+Seasonal Affective Disorder,Fluoxetine Oral
+Seasonal Affective Disorder,Sertraline Oral
+Seasonal Affective Disorder,Zoloft Oral

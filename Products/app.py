@@ -100,10 +100,10 @@ embedding_dim = 384
 # feature builder for ML later
 # ======================
 
-def build_patient_features(embedding, age_id, gender_id, condition_id, time_on_drug, has_review):
+def build_patient_features(embedding, age_id, gender_id, condition_id, time_on_drug):
     return np.concatenate([
         embedding,
-        np.array([age_id, gender_id, condition_id, time_on_drug, has_review])
+        np.array([age_id, gender_id, condition_id, time_on_drug])
     ])
 
 # ======================

@@ -162,8 +162,7 @@ with tab1:
         age_id,
         gender_id,
         condition_id,
-        time_on_drug=0,
-        has_review=1 if symptoms.strip() else 0
+        time_on_drug=0
     )
 
     def recommend(patient_base, diagnosis):

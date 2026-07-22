@@ -6,10 +6,6 @@ import joblib
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# ======================
-# PATH BASE (IMPORTANT FIX)
-# ======================
-
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # ======================
@@ -135,7 +131,7 @@ tab1, tab2 = st.tabs([
 ])
 
 # ======================
-# TAB 1
+# section A for patient predictor
 # ======================
 
 with tab1:
@@ -196,7 +192,7 @@ with tab1:
         st.dataframe(recs, use_container_width=True)
 
 # ======================
-# TAB 2
+# Section B for calculatorr
 # ======================
 
 def compute_pmei(review_text, base_pmei=5):
